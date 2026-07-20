@@ -1,12 +1,14 @@
+<!-- SHRUTHI INTI — GITHUB PROFILE README -->
+
 <div align="center">
 
-<img src="./assets/shruthi-banner.jpeg" width="100%" alt="Shruthi Inti Banner"/>
+<img src="./shruthi-banner.jpeg" width="100%" alt="Shruthi Inti Banner"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=30&duration=2600&pause=900&color=7A4FA3&center=true&vCenter=true&repeat=true&width=900&height=80&lines=Electronics+Engineer;Software+Developer;AI+and+Embedded+Systems+Enthusiast"
+    src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=32&duration=2600&pause=900&color=7A4FA3&center=true&vCenter=true&repeat=true&width=900&height=90&lines=Electronics+Engineer;Software+Developer;AI+%7C+Embedded+Systems+%7C+Full-Stack"
     alt="Typing animation"
   />
 </a>
@@ -14,30 +16,34 @@
 <br/>
 
 <a href="https://shruthi-inti.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-9B72CF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-9B72CF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/shruthiinti/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-7A4FA3?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-7A4FA3?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:shruthiinti@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-C58ACF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-C58ACF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/IShruthii">
-  <img src="https://img.shields.io/badge/GitHub-Follow-4B366B?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-4B366B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<a href="./assets/Shruthi_Inti_Core_Resume.pdf">
-  <img src="https://img.shields.io/badge/Core_Resume-View-8F6BB3?style=for-the-badge&logo=readme&logoColor=white"/>
+<a href="./Shruthi_Inti_Core_Resume.pdf">
+  <img src="https://img.shields.io/badge/CORE_RESUME-VIEW-8F6BB3?style=for-the-badge&logo=readme&logoColor=white"/>
 </a>
-<a href="./assets/Shruthi_Inti_Software_Resume.pdf">
-  <img src="https://img.shields.io/badge/Software_Resume-View-A987C5?style=for-the-badge&logo=readme&logoColor=white"/>
+<a href="./Shruthi_Inti_Software_Resume.pdf">
+  <img src="https://img.shields.io/badge/SOFTWARE_RESUME-VIEW-A987C5?style=for-the-badge&logo=readme&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=IShruthii&label=PROFILE+VIEWS&color=9b72cf&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:F8F1FC,50:E5D4F2,100:9B72CF"/>
 
 <div align="center">
 
@@ -45,19 +51,26 @@
 
 </div>
 
-I am an Electronics and Communication Engineering student interested in building practical solutions across both hardware and software.
+<table>
+<tr>
+<td align="center">
 
-My work spans FPGA design, embedded systems, artificial intelligence, signal processing, full-stack web development and responsive user experiences.
+Electronics and Communication Engineering student building across  
+**FPGA, Embedded Systems, Artificial Intelligence, Signal Processing and Full-Stack Development.**
 
-<div align="center">
+I enjoy creating practical systems that combine engineering, software and thoughtful design.
 
-<img src="https://img.shields.io/badge/Hyderabad-India-EADCF8?style=flat-square"/>
-<img src="https://img.shields.io/badge/B.Tech-ECE-D9C2EE?style=flat-square"/>
-<img src="https://img.shields.io/badge/Graduation-2027-CFB2E5?style=flat-square"/>
+<br/><br/>
 
-</div>
+<img src="https://img.shields.io/badge/Hyderabad-India-F3EBFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/B.Tech-ECE-E7D8F3?style=flat-square"/>
+<img src="https://img.shields.io/badge/Graduation-2027-D9C2EE?style=flat-square"/>
 
----
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:F8F1FC,50:E5D4F2,100:9B72CF"/>
 
 <div align="center">
 
@@ -75,7 +88,7 @@ My work spans FPGA design, embedded systems, artificial intelligence, signal pro
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,postman,linux&theme=light"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/FPGA-Design-7A4FA3?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/VHDL-Hardware-8F6BB3?style=for-the-badge"/>
@@ -85,7 +98,7 @@ My work spans FPGA design, embedded systems, artificial intelligence, signal pro
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:F8F1FC,50:E5D4F2,100:9B72CF"/>
 
 <div align="center">
 
@@ -97,27 +110,27 @@ My work spans FPGA design, embedded systems, artificial intelligence, signal pro
 <tr>
 <td width="50%" align="center" valign="top">
 
-### Moodify
+### 🎭 Moodify
 
 AI-powered mood-based recommendation and interaction platform.
 
 **Spring Boot · React · MySQL · Gemini API**
 
 <a href="https://moodifyy-ebon.vercel.app">
-  <img src="https://img.shields.io/badge/Visit_Project-9B72CF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VISIT_PROJECT-9B72CF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### SevaSetu Telangana
+### 🏛️ SevaSetu Telangana
 
-Multilingual AI-assisted citizen services platform.
+Multilingual AI-assisted platform for government services.
 
 **React · AI · OCR · Voice Assistance**
 
 <a href="https://sevasetu-seven.vercel.app/">
-  <img src="https://img.shields.io/badge/Visit_Project-7A4FA3?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VISIT_PROJECT-7A4FA3?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </td>
@@ -126,16 +139,16 @@ Multilingual AI-assisted citizen services platform.
 <tr>
 <td width="50%" align="center" valign="top">
 
-### Anusandhan
+### 🤖 Anusandhan
 
-Privacy-focused offline AI companion using local language models.
+Privacy-focused offline AI companion.
 
 **Python · Raspberry Pi · LLMs · Speech Recognition**
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### FPGA CNN Accelerator
+### 🩸 FPGA CNN Accelerator
 
 FPGA-based leukemia cell classification accelerator.
 
@@ -145,7 +158,7 @@ FPGA-based leukemia cell classification accelerator.
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:F8F1FC,50:E5D4F2,100:9B72CF"/>
 
 <div align="center">
 
@@ -157,19 +170,19 @@ FPGA-based leukemia cell classification accelerator.
 <tr>
 <td width="50%" align="center">
 
-### Aurelia Grand Hotel
+### 🏨 Aurelia Grand Hotel
 
 <a href="https://aurelia-grand-hotel-nine.vercel.app/">
-  <img src="https://img.shields.io/badge/Visit_Website-9B72CF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VISIT_WEBSITE-9B72CF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </td>
 <td width="50%" align="center">
 
-### Anayaa Salon
+### 💇 Anayaa Salon
 
 <a href="https://anayaaa-salon.vercel.app/">
-  <img src="https://img.shields.io/badge/Visit_Website-A987C5?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VISIT_WEBSITE-A987C5?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </td>
@@ -178,26 +191,26 @@ FPGA-based leukemia cell classification accelerator.
 <tr>
 <td width="50%" align="center">
 
-### Aurum Cafe
+### ☕ Aurum Cafe
 
 <a href="https://aurum--cafe.vercel.app/">
-  <img src="https://img.shields.io/badge/Visit_Website-7A4FA3?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VISIT_WEBSITE-7A4FA3?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </td>
 <td width="50%" align="center">
 
-### Elevate Studio
+### ✨ Elevate Studio
 
 <a href="https://elevate---studio.vercel.app/">
-  <img src="https://img.shields.io/badge/Visit_Website-C58ACF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VISIT_WEBSITE-C58ACF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </td>
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:F8F1FC,50:E5D4F2,100:9B72CF"/>
 
 <div align="center">
 
@@ -213,7 +226,7 @@ FPGA-based leukemia cell classification accelerator.
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:F8F1FC,50:E5D4F2,100:9B72CF"/>
 
 <div align="center">
 
@@ -221,26 +234,22 @@ FPGA-based leukemia cell classification accelerator.
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=IShruthii&bg_color=F8F3FC&color=7A4FA3&line=9B72CF&point=C58ACF&area=true&hide_border=true"/>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/IShruthii/IShruthii/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
-
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:F8F1FC,50:E5D4F2,100:9B72CF"/>
 
 <div align="center">
 
 ## ✦ Let's Connect
 
 <a href="mailto:shruthiinti@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-C58ACF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMAIL_ME-C58ACF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/shruthiinti/">
-  <img src="https://img.shields.io/badge/LinkedIn-7A4FA3?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-7A4FA3?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://shruthi-inti.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-9B72CF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-9B72CF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -254,4 +263,4 @@ FPGA-based leukemia cell classification accelerator.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:F7F0FB,45:DCC6EE,100:9B72CF&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?
